@@ -24,7 +24,7 @@
     "express": "^4.17.1",
     "rxjs": "~6.5.4",
     "simple-peer": "^9.7.2",
-    "socket.io": "^2.3.0",
+    "socket.io": "^2.4.0",
     "tslib": "^1.10.0",
     "watchify": "^3.11.1",
     "zone.js": "~0.10.2"
